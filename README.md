@@ -1,3 +1,3 @@
 # MyWeatherInformer
 
-![Alt Text](http://gph.is/23hAsRW)
+![Alt Text](http://gph.is/23hAsRW.gif)
